@@ -56,8 +56,8 @@
 ## 📫 Let's Connect!
 
 - **Email:** ariel.p.lesmana@gmail.com  
-- **LinkedIn:** [Ariel Pratama Lesmana](https://linkedin.com/in/arielpratamalesmana)  
-- **GitHub:** [ArielLesmana](https://github.com/ArielLesmana)
+- **LinkedIn:** [Ariel Pratama Lesmana](https://linkedin.com/in/ariel-p-lesmana)  
+- **GitHub:** [Ariel Lesmana](https://github.com/ariel-lesmana)
 
 ---
 
