@@ -8,7 +8,7 @@
 ## 🌟 About Me
 
 - 👨‍💻 **Current Role:** Software Engineer at Etherval IT Consultancy.  
-- 🎓 **Education:** BSc in Informatics, specializing in Artificial Intelligence with a focus on Computer Vision. Graduated with a **3.84 GPA**.  
+- 🎓 **Education:** Bachelor of Informatics, specializing in Artificial Intelligence with a focus on Computer Vision. Graduated with a **3.84 GPA**.  
 - 🏆 **Proudest Project:** [Kelpie Personal Trainer](https://pypi.org/project/kelpie-personal-trainer/) – An AI-powered fitness app that tracks workout accuracy using CNN and deep learning.  
 - 🎯 **Career Goal:** Transition into a **Machine Learning Engineer** role and contribute to impactful Computer Vision projects.  
 
