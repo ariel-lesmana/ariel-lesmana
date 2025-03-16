@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages:
-- Python, JavaScript, Dart, Java
+- Python, JavaScript, Dart, Java, Typescript, Kotlin
 
 ### Frameworks & Tools:
 - **AI/ML:** TensorFlow, PyTorch  
